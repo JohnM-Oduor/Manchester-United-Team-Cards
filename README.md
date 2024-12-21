@@ -9,10 +9,9 @@ This project is a dynamic web application that highlights the players and stats 
 3. [Technologies Used 💻](#technologies-used)
 4. [Setup and Installation 🛠️](#setup-and-installation)
 5. [Usage 📖](#usage)
-6. [Screenshots 📸](#screenshots)
-7. [Future Enhancements 🚀](#future-enhancements)
-8. [Contributing 🤝](#contributing)
-9. [License 📜](#license)
+6. [Future Enhancements 🚀](#future-enhancements)
+7. [Contributing 🤝](#contributing)
+8. [License 📜](#license)
 
 ---
 
@@ -31,35 +30,31 @@ This project is inspired by the **Manchester United 2024** team. It provides a f
 - Responsive design for various screen sizes.
 - Clean and reusable code structure.
 
+---
 ## Technologies Used 💻
 
 - **HTML5**: For the structure of the web page.
 - **CSS3**: For styling the page.
 - **JavaScript (ES6)**: For dynamic functionality.
 
-## Setup and Installation 🛠️
-
-Follow these steps to set up and install the project on your local machine.
-
-1. Clone this repository.
-2. Install the necessary dependencies using `npm install`.
-3. Run the development server with `npm start`.
+---
 
 ## Usage 📖
 
 To explore the features of the project, simply navigate through the pages and interact with the player data.
 
-
+---
 ## Future Enhancements 🚀
 
 - Add more filter options for players based on the latest statistics.
 - Integrate a real-time data API for live player stats in **Manchester United 2024**.
 - Improve UI with animations and a more polished design.
-
+---
 ## Contributing 🤝
 
 Feel free to fork this project and submit pull requests. Contributions are always welcome!
 
+---
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
